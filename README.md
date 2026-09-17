@@ -19,7 +19,7 @@ O objetivo deste repositório é documentar a aplicação prática dos conceitos
 ## 📚 Formação Acadêmica & Certificações
 
 *   **Pós-Graduação em Segurança da Informação** – Gran Faculdade *(Em andamento – Previsão: 08/2027)*
-*   **Pós-Graduação em Direito Digital e Proteção de Dados** – Gran Faculdade *(Em andamento – Previsão: 08/2027)*
+*   **Pós-Graduação in Direito Digital e Proteção de Dados** – Gran Faculdade *(Em andamento – Previsão: 08/2027)*
 *   **Tecnólogo em Gestão de Segurança Privada** – Universidade Estácio de Sá *(Concluído)*
 *   **Curso Network Defense (Defesa de Redes)** – Cisco Networking Academy *(Em andamento)*
 *   **Introdução à Cibersegurança** – Cisco Networking Academy (NetAcad) *(Concluído)*
@@ -40,8 +40,7 @@ O portfólio está organizado em duas grandes trilhas de conhecimento. Clique no
 ### 🛡️ 2. Segurança da Informação e Defesa de Redes
 *Foco na aplicação técnica da Tríade CIA, protocolos de rede (TCP/IP, Modelo OSI), análise de segurança e boas práticas.*
 *   👉 **[Guia Prático de Hardening (Windows 11)](01-grc-e-privacidade/02-seguranca-e-redes/02-seguranca-e-redes/guia_hardening_windows.md):** Documentação passo a passo para proteção e endurecimento de sistemas operacionais.
-*   `[Em breve]` **Laboratórios de Redes e Defesa:** Resumos técnicos, mapas de portas/protocolos e comandos essenciais de segurança baseados nos estudos da Cisco.
-*   `[Em breve]` **Análise e Monitoramento de Logs:** Simulação de identificação de incidentes e comportamentos anômalos em relatórios de servidores.
+*   👉 **[Relatório de Análise de Vulnerabilidades](02-seguranca-e-redes/analise_vulnerabilidades.md):** Identificação de brechas críticas em servidores e plano de remediação técnica usando conceitos do Tenable Nessus.
 
 ---
 
