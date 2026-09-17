@@ -5,7 +5,7 @@ Este guia técnico documenta os passos necessários para aplicar as diretrizes d
 ## 1. Configuração de Bloqueio de Tela por Inatividade
 Para garantir que a tela bloqueie em 5 minutos:
 1. Abrir o menu Iniciar e buscar por `Opções de Proteção de Tela`.
-2. Alterar o tempo de **Aguardar** para `5` minutes.
+2. Alterar o tempo de **Aguardar** para `5` minutos.
 3. Marcar a opção `Ao reiniciar, exibir tela de logon`.
 
 ## 2. Desativação de Contas de Administrador Local
