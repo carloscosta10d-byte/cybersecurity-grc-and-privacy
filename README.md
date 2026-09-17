@@ -29,17 +29,17 @@ O objetivo deste repositório é documentar a aplicação prática dos conceitos
 
 ## 📁 Estrutura do Repositório
 
-O portfólio está organizado em duas grandes trilhas de conhecimento. À medida que os projetos forem desenvolvidos, os links abaixo serão atualizados com os respectivos arquivos:
+O portfólio está organizado em duas grandes trilhas de conhecimento. Clique nos links abaixo para acessar os projetos diretamente:
 
 ### 📑 1. Governança, Riscos, Conformidade (GRC) e Privacidade
 *Foco em processos organizacionais, mapeamento de ativos, análise de riscos (ISO 27001) e adequação regulatória (LGPD).*
-*   `[Em breve]` **Modelo de Política de Segurança da Informação (PSI):** Estruturação de diretrizes de segurança para um cenário corporativo fictício.
+*   👉 **[Modelo de Política de Segurança da Informação (PSI)](01-grc-e-privacidade/politica_seguranca.md):** Estruturação de diretrizes de segurança para um cenário corporativo fictício.
 *   `[Em breve]` **Mapeamento de Dados e Inventário de Ativos (Data Mapping):** Fluxo de dados simulado para conformidade com a LGPD.
 *   `[Em breve]` **Matriz de Análise de Riscos:** Identificação, cálculo de impacto e planos de mitigação de vulnerabilidades de processos.
 
 ### 🛡️ 2. Segurança da Informação e Defesa de Redes
 *Foco na aplicação técnica da Tríade CIA, protocolos de rede (TCP/IP, Modelo OSI), análise de segurança e boas práticas.*
-*   `[Em breve]` **Guias Práticos de Hardening:** Documentação passo a passo para proteção e endurecimento de sistemas operacionais.
+*   👉 **[Guia Prático de Hardening (Windows 11)](01-grc-e-privacidade/02-seguranca-e-redes/02-seguranca-e-redes/guia_hardening_windows.md):** Documentação passo a passo para proteção e endurecimento de sistemas operacionais.
 *   `[Em breve]` **Laboratórios de Redes e Defesa:** Resumos técnicos, mapas de portas/protocolos e comandos essenciais de segurança baseados nos estudos da Cisco.
 *   `[Em breve]` **Análise e Monitoramento de Logs:** Simulação de identificação de incidentes e comportamentos anômalos em relatórios de servidores.
 
