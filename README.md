@@ -32,3 +32,19 @@ Seja bem-vindo ao meu repositório de portfólio profissional focado em **Segura
 ### 🛡️ 2. Segurança da Informação e Defesa de Redes
 *   👉 **[Guia Prático de Hardening (Windows 11)](01-grc-e-privacidade/02-seguranca-e-redes/02-seguranca-e-redes/guia_hardening_windows.md)**
 *   👉 **[Relatório de Análise de Vulnerabilidades](02-seguranca-e-redes/analise_vulnerabilidades.md)**
+
+
+
+## 🐧 Laboratório Prático: Controle de Acesso Lógico e Privilégio Mínimo (Linux OS)
+
+### 📝 Descrição do Cenário (Foco em GRC e LGPD)
+Auditoria e endurecimento de sistemas (**Hardening**) em ambiente corporativo simulado via terminal **Linux (WSL)**. O objetivo foi garantir a conformidade e o pilar da **Confidencialidade** (Tríade CIA) de um Relatório de Impacto à Proteção de Dados (RIPD), mitigando o risco de vazamento de informações para usuários não autorizados do sistema.
+
+### ⚙️ Implementação Técnica e Comandos Utilizados
+* **pwd / cd:** Navegação estruturada em diretórios corporativos seguros.
+* **nano:** Criação e edição do arquivo confidencial contendo dados sensíveis mapeados.
+* **ls -l:** Auditoria inicial das permissões, onde foi identificada uma brecha de leitura aberta para terceiros (`-rw-r--r--`).
+* **chmod 600:** Aplicação do Princípio do Privilégio Mínimo, restringindo o acesso exclusivamente ao proprietário do ativo.
+
+### 🔍 Resultado da Auditoria de Segurança
+Após a execução do controle via CLI, a permissão foi alterada com sucesso para **`-rw-------`**, garantindo o isolamento lógico total do documento contra acessos não autorizados.
